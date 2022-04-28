@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Raul</h1>
+<h1 align="center">:collision:Hi 👋, I'm Raul:collision:</h1>
 <h3 align="center">Student for a Degree in information systems</h3>
 
-- 🌱 I’m currently learning **Django, CSS**
+- 🌱 I’m currently learning **Django, CSS, Bootstrap**
 
-- ⚡ Fun fact **I like games**
+- ⚡ Fun fact **I like games** :space_invader: :video_game:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
